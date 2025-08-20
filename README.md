@@ -1,0 +1,1 @@
+Projek ini adalah, bagian kecil dari Aplikasi Tumbuh Kembang Anak(ATKA) yang dapat digunakan sebagai acuan pengukuran perkembangan anak usia dini. Aplikasi ini belum sempurna dan masih membtutuhkan beberapa perbaikan
